@@ -1,0 +1,2 @@
+C:\dev\workspace\xna\geomclone\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\dev\workspace\xna\geomclone\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
