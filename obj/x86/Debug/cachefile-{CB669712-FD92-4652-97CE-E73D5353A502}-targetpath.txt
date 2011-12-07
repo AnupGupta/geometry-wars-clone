@@ -1,0 +1,3 @@
+Content\GeomCloneFont.xnb
+Content\Blur.xnb
+Content\smallRect.xnb
